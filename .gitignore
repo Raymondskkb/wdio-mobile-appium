@@ -1,0 +1,12 @@
+.env
+.venv
+.idea
+*.iml
+log
+reports
+*.png
+*.html
+*.xml
+*.log
+resources/__pycache__/
+*.jpg
